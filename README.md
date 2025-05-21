@@ -15,7 +15,10 @@ Comprendre le cycle :
 * l'infiltration
 * le recyclage de l'eau
 Source :  https://fondationdaniellemitterrand.org/le-cycle-de-leau/#:~:text=Le%20cycle%20de%20l%E2%80%99eau%20%28ou%20cycle%20hydrologique%29%20est,soleil%20est%20le%20moteur%20de%20l%E2%80%99ensemble%20du%20cycle
-
+2- Récupération des données
+  *Données météologiques et climatologiques : https://meteo.data.gouv.fr
+  *Données hydroloqiques : www.banquedesterritoires.fr
+  *Données 
 
 
  
