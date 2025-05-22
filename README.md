@@ -20,6 +20,8 @@ Source :  https://fondationdaniellemitterrand.org/le-cycle-de-leau/#:~:text=Le%2
   *Données hydroloqiques : www.banquedesterritoires.fr
   *Données climatiques : https://www.infoclimat.fr/opendata/
 
+3- Choix des équations 
+  La loi 
 
  
 
